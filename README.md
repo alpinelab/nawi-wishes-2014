@@ -9,3 +9,4 @@ Nawi new year's wishes for 2014
 * [Guerton](http://alpinelab.github.io/nawi-wishes-2014/guerton)
 * [Besson](http://alpinelab.github.io/nawi-wishes-2014/besson)
 * [Eti](http://alpinelab.github.io/nawi-wishes-2014/eti)
+* [Nawi (groupe)](http://alpinelab.github.io/nawi-wishes-2014/nawi)
